@@ -43,10 +43,11 @@ Run `npm run dev` to start the development server.
    - Messages display in conversation view.
    - Coaches can compose and send or reply messages with a subject and body.
    - Targeted messaging to different groups (everyone, just players, just parents and/or individual players with option to forward to respecitve parent).
-  - Centralized message history for coaches, players, and parents.
-    - Notification badge with count.
+   - Centralized message history for coaches, players, and parents.
+   - Notification badge with count.
  - **Events**
-   - Coaches can create new and manage team events (Practice, Game, Meeting, Other) with date, time, location, and details.
+   - Coach can create new and manage team events (Practice, Game, Meeting, Other) with date, time, location, and details.
+   - Coach can edit/update/delete event information or select event cancelled.
    - All users can view a chronological list of upcoming events.
    - All users can click an event to open a detailed modal view with full information.
    - Coach may check player/parent indicate attendance vs player actual attendance for records.
@@ -84,7 +85,7 @@ Run `npm run dev` to start the development server.
    - Player only view team events (Practice, Game, Meeting, Other) with date, time, location, and details.
    - All users can view a chronological list of upcoming events.
    - All users can click an event to open a detailed modal view with full information.
-   - Player to indicate own attendance to events and activities from options (Attend, Late, Injured, Absent), with time stamp to record.
+   - Player to indicate own attendance to events and activities from dropdown options (Attend, Late, Injured, Absent), submissions are time stamp for record.
  - **Setting**
    - **Team Setting**
      - Allow to enter other 8-alphanumeric code to request to join more teams.
@@ -116,7 +117,7 @@ Run `npm run dev` to start the development server.
    - Parent only view team events (Practice, Game, Meeting, Other) with date, time, location, and details.
    - All users can view a chronological list of upcoming events.
    - All users can click an event to open a detailed modal view with full information.
-   - Parent to indicate Player attendance to events and activities from options (Attend, Late, Injured, Absent), with time stamp to record.
+   - Parent to indicate Player attendance to events and activities from dropdown options (Attend, Late, Injured, Absent), submissions are time stamp for record.
  - **Setting**
    - **Team Setting**
      - Allow to enter other 8-alphanumeric code to request to join more teams.
