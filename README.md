@@ -28,13 +28,14 @@ Run `npm run dev` to start the development server.
    - View team dashboard with upcoming events and activities and latest messages notofications.
    - Upcoming events and activities and latest messages are expandable to show the three latest and clickable to go into detailed modal.
  - **Roster Management**
-   - View a responsive list of all players on the team, with profile photo, name, nickname, number and position, with sort and filter function.
+   - In list view, view a responsive list of all players on the team, with profile photo, name, nickname, number and position, with sort and filter function.
    - Click a player to open a detailed modal view with full contact information and coaches notes for the player.
    - In detailed modal view, Coach may add notes to Player for coach personal reference and records.
    - Full roster management and edit including profile photo, first name, last name, nickname, number, position, birth month and year, email and phone (add, view, edit, delete players and respective parent contact information).
    - Coach need to confirm new player/parent join team request, show badge with count to notify coach new request.  
    - coach may add/edit new players with details like profile photo, first name, last name, nickname, number, position, email, phone, birth month and year, parent's name, and contact details.
    - Coach option to add note, edit or delete players directly from the player detail view.
+     - If Coach has added note to a Player, denote "Notes" with date to remind Coach. 
    - Coach to approve Player/Parent request to unjoin team. 
    - Shortcut for Coach to set 8-alphanumeric code to add new player or parent. 
  - **Message**
