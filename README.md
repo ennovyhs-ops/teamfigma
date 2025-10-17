@@ -50,8 +50,8 @@ Run `npm run dev` to start the development server.
    - Coach can edit/update/delete event information or select event cancelled.
    - All users can view a chronological list of upcoming events.
    - All users can click an event to open a detailed modal view with full information.
-   - Coach may check player/parent indicate attendance vs player actual attendance for records.
-   - Manage player attendance and view player/parent indicated attendance.
+   - Coach may check player/parent indicated attend vs player actual attendance for records.
+   - Update/manage player attendance and view player/parent indicated attend.
  - **Setting**
    - **Team Setting**
      - Coach can upload and display a custom logo and change name for team.
