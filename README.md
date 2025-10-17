@@ -50,15 +50,16 @@ Run `npm run dev` to start the development server.
    - Manage player attendance and view player/parent indicated attendance.
  - **Setting**
    - **Team Setting**
-     - Existing coach to a team may add new coach to join team to help manage by email invitation link. 
      - Coach can upload and display a custom logo and change name for team.
      - Option to select and change managning team.
+     - Existing coach to a team may add new coach to join team to help manage by email invitation link. 
      - Create/edit 8-alphanumeric code for Player and Parent to join teams. Each team has its own unique 8-alphanumeric code.
      - Delete team
    - **Profile Setting**
      - Profile Settings to edit profile photo, name, contact email and phone.
      - Delete account.
  - Bottom navigation bar to navigate between different pages.
+
 
 - **Player View:**
  - **Dashboards**
@@ -91,7 +92,8 @@ Run `npm run dev` to start the development server.
      - Display linked Parent accounts, if any. Needs Parent approval if unlinked by Player.
      - Delete account.
  - Bottom navigation bar to navigate between different pages.
- 
+
+
 - **Parent View:**
  - **Dashboards**
    - View and manage respective children Player dashboard on upcoming events and activities and latest messages notofications of all joined teams.
