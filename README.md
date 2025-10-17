@@ -48,10 +48,11 @@ Run `npm run dev` to start the development server.
  - **Events**
    - Coach can create new and manage team events (Practice, Game, Meeting, Other) with date, time, location, and details.
    - Coach can edit/update/delete event information or select event cancelled.
+   - Coach may check player/parent indicated attend vs player actual attendance for records, in event detail.
+   - Coach sees a quick count on indicated replied (Attend, Late, Injured, Absent) vs not yet reply. 
+   - Update/manage player attendance and view player/parent indicated attend.
    - All users can view a chronological list of upcoming events.
    - All users can click an event to open a detailed modal view with full information.
-   - Coach may check player/parent indicated attend vs player actual attendance for records.
-   - Update/manage player attendance and view player/parent indicated attend.
  - **Setting**
    - **Team Setting**
      - Coach can upload and display a custom logo and change name for team.
