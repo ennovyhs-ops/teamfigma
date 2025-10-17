@@ -128,5 +128,3 @@ Run `npm run dev` to start the development server.
 - **AI-Powered Performance Analysis**
   - A dedicated flow (`analyze-performance-data.ts`) to analyze game statistics and player data.
   - Provides overall team analysis, player-specific recommendations, and strategic adjustments.
-
-
